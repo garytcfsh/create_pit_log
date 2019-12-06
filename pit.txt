@@ -1,0 +1,16 @@
+BEGIN CREATEREGION
+	ObjectName = "Cylinder_3"
+	Type = "Cylinder"
+	LockAxisVertical = 0
+	CreateAround "Cylinder_1" 8 : -1
+END
+
+BEGIN EDITREGION
+	ObjectName = "Cylinder_3"
+	Type = "Cylinder"
+	Origin = 4316.017086434701900, 6973.667080573272000, -961.994072719218710
+	AxisOrientation trend = 90.000000 plunge = 0.000000
+	AxisLength = 0
+	Radius = 100
+	Sides = 6
+END
